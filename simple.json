@@ -1,0 +1,13 @@
+[ { "simplified" : "阿拉伯语",
+    "radical"    : "阝",
+    "level"      : [ "new-7+" ],
+    "frequency"  : 27202,
+    "pos"        : [ "nz" ],
+    "forms"      : [ { "traditional"    : "阿拉伯語",
+                       "transcriptions" : { "pinyin"    : "Ā lā bó yǔ",
+                                            "numeric"   : "A1 la1 bo2 yu3",
+                                            "wadegiles" : "a¹ la¹ po² yü³",
+                                            "bopomofo"  : "ㄚ ㄌㄚ ㄅㄛˊ ㄩˇ",
+                                            "romatzyh"  : "a lha bor yeu" },
+                       "meanings"       : [ "Arabic (language)" ],
+                       "classifiers"    : [] } ] }]
